@@ -48,7 +48,7 @@ textarea {
     margin: 1rem 0rem;
     font-family: inherit;
     font-size: large;
-    font-weight: bold;
+    font-weight: bolder;
     color: var(--text-color);
 }
 
@@ -81,6 +81,6 @@ footer {
 footer p {
     max-width: 600px;
     margin: auto;
-    padding: 1rem 0rem;
+    padding: 1rem 0rem 1.5rem 0rem;
     font-weight: bold;
 }
